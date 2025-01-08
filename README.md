@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Languages
-<img src="https://m.media-amazon.com/images/I/410Z2CHLy2L._AC_UF1000,1000_QL80_.jpg" alt="Python" height="55px" width="40px"> <img src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="Java" height="45px" width="45px"> <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png" alt="Typscript" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="45px" width="45px">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="45px" width="45px"> <img src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="Java" height="45px" width="45px"> <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png" alt="Typscript" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="45px" width="45px">
 
 ## Projects
 
