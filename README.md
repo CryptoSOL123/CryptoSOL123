@@ -8,7 +8,7 @@
 ## IDE's?
 <img src="https://img.icons8.com/m_outlined/512/FFFFFF/visual-studio-code-2019.png" alt="VS Code" height="45px" width="45px" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53yBx1GFD_UQ4KiTvm5SKC2sHtouZkM5aqA&s" alt="PyCharm" height="45px" width="45px"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="Sublime Text" height="45px" width="45px">
 ## Interests/Skills
-
+<img src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png" alt="Machine Learning" height="45px" width="45px">
 <!--
 **CryptoSOL123/CryptoSOL123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
