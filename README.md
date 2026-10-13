@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Languages
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="45px" width="45px"> <img src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="Java" height="45px" width="45px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmvwgXF4-2vo_SJaRv2t1kUfIu7QZx9tUJeSIY2GvMg&s=10" alt="C#" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="45px" width="45px">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="45px" width="45px"> <img src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" alt="Java" height="45px" width="45px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5DJIzVsZvbiYUxd7q1R37rLK5wek55LfAlHgWRnR4A&s=10" alt="C#" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="45px" width="45px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="45px" width="45px">
 
 ## Projects
 
